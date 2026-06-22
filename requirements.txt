@@ -1,0 +1,14 @@
+opencv-python
+pillow
+mss
+numpy
+pytesseract
+pyperclip
+requests
+boto3
+google-api-python-client
+google-auth
+google-auth-oauthlib
+sounddevice
+pyaudiowpatch
+imageio-ffmpeg

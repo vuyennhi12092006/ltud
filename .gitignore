@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configuration and Credentials
+config.json
+config.yaml
+config.ini
+credentials.json
+service_account.json
+token.json
+token_bk.json
+token.pickle
+*.token
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
